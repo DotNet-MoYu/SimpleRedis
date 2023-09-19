@@ -6,7 +6,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+using NewLife.Caching.Queues;
 namespace SimpleRedis
 {
     /// <summary>

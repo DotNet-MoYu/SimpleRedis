@@ -1,4 +1,5 @@
 ﻿using NewLife.Caching;
+using NewLife.Caching.Queues;
 using SimpleRedis;
 using System;
 using System.Collections.Generic;
