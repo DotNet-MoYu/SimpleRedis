@@ -1,11 +1,7 @@
 ﻿using NewLife.Caching;
 using NewLife.Caching.Models;
-using SimpleRedis;
-using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace SimpleRedis
 {

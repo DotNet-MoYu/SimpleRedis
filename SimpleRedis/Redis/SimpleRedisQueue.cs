@@ -1,10 +1,6 @@
-﻿using NewLife.Caching;
-using NewLife.Caching.Queues;
-using SimpleRedis;
-using System;
+﻿using NewLife.Caching.Queues;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
 
 namespace SimpleRedis
